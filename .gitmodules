@@ -1,0 +1,3 @@
+[submodule "travel_buddy"]
+	path = travel_buddy
+	url = https://github.com/ayushshah31/travel_buddy.git
