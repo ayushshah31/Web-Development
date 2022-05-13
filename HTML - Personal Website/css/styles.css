@@ -1,0 +1,29 @@
+body{
+  background-color: #E3FDFD;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: thick;
+  border-color: grey;
+  width: 5%;
+}
+
+h1{
+  color: #364F6B;
+  font-variant: small-caps;
+  font-family: cursive;
+}
+.name:hover{
+  font-size: 50px;
+  color: gold;
+}
+a:hover{
+  color: blue;
+}
+h2{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
